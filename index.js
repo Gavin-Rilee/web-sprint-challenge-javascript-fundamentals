@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-// Because its located in the local scope
+// Because its located in the local scope.
 
 
 
